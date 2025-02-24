@@ -137,6 +137,7 @@ The feature importance analysis from the XGBoost model and the learned patterns 
 
 
 Conclusion:
+
 This project successfully developed and compared two advanced machine learning models—XGBoost and Neural Networks—for credit risk prediction. Each model offered unique strengths, with XGBoost providing high precision and efficiency, while Neural Networks excelled in capturing complex patterns in the data. The insights gained from these models can significantly enhance the credit risk assessment process, leading to more accurate and fair decision-making in financial institutions.
 
 
